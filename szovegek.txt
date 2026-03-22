@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&display=swap');
+
+A sakk kétjátékos stratégiai táblajáték, amelyet 8×8 mezőből álló sakktáblán játszanak. A játék célja az ellenfél királyának mattadása. A kezdő felállásban a fehér király és a fekete királynő a középső oszlopokban állnak, mellettük sorakoznak a többi bábuk. A fehér huszár L alakban lép, a fekete bástya pedig vízszintesen vagy függőlegesen mozoghat tetszőleges távolságra. A táblán váltakozva követik egymást a világos mező és a sötét mező négyzetek.
+
+A huszár az egyetlen figura, amely átugorhat más bábuk fölött. Mozgása különleges, mert egyszerre két irányváltást is tartalmaz: kettőt lép egy irányba, majd egyet arra merőlegesen. Emiatt a huszár különösen hasznos zárt állásokban, ahol más figurák mozgása korlátozott. A jó huszárjáték sokszor villafenyegetést, anyagnyerést vagy váratlan mattképet eredményezhet.
+
+A huszár különösen erős az alábbi helyzetekben:
+- amikor egyszerre két fontos figurát támad
+- amikor a tábla közepén állva sok mezőt ellenőriz
+- amikor villával sakkot és tisztet is támad
+- amikor zárt gyalogszerkezet mellett a futóknál mozgékonyabb
