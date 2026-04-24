@@ -12,5 +12,15 @@ h1 {
 }
 
 .fk {
-    
+    font-weight: bold;
+}
+
+.fekete {
+    background-color: black;
+    color: white;
+}
+
+.feher {
+    background-color: white;
+    color: black;
 }
